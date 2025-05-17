@@ -1,4 +1,4 @@
-# BDH-project-2025
+# CSE 6250: Big Data for Health Informatics Class Project
 # 🩺 FarSight: Long-Term Disease Prediction from Nursing Notes (Reproduction)
 
 This project reproduced part of the **FarSight** paper:
